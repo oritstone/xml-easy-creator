@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0577c562-2f50-4834-8d1f-d6e7fe60f67c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/client/actions/editorActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/actions/schema.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/components/editorContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/constants/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/reducers/homeReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/logger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/fuelSavingsActions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/fuelSavingsActions.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AboutPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AboutPage.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FuelSavingsForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FuelSavingsForm.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FuelSavingsResults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FuelSavingsResults.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FuelSavingsTextInput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FuelSavingsTextInput.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/components/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NotFoundPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/components/NotFoundPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Root.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/components/Root.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/containers/FuelSavingsPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/containers/FuelSavingsPage.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/containers/__snapshots__/FuelSavingsPage.spec.js.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/actionTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/fuelSavingsReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/fuelSavingsReducer.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/initialState.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/__snapshots__/store.spec.js.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/configureStore.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/store/configureStore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/store.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/about-page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/dates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/dates.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/fuelSavings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/fuelSavings.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/math.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/math.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/numberFormat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/numberFormat.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/removeDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/setup/setup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/setup/setupMessage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/setup/setupPrompts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.prod.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1Sv4bHAHt9A5eJTHByPFmxCj4YI" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/client" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\code\xml-creator\xml-creator\src\client" />
+      <recent name="C:\code\xml-creator\xml-creator\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\code\xml-creator\xml-creator\src\client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Node.js/Chrome.server">
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="3000" isV8Legacy="true">
+      <option name="v8Legacy" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="3000" isV8Legacy="true">
+      <option name="v8Legacy" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emptyTest.spec.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/components/emptyTest.spec.js" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Node.js/Chrome.server" />
+      <item itemvalue="Jest.emptyTest.spec.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.emptyTest.spec.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0577c562-2f50-4834-8d1f-d6e7fe60f67c" name="Default Changelist" comment="" />
+      <created>1572430805148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572430805148</updated>
+      <workItem from="1572430807617" duration="2279000" />
+      <workItem from="1572433460186" duration="1341000" />
+      <workItem from="1572441099699" duration="18188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/server/index.js</url>
+          <line>4</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/server/index.js</url>
+          <line>10</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/xml_creator$emptyTest_spec_js.info" NAME="emptyTest.spec.js Coverage Results" MODIFIED="1572442063519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/xml_creator$Rerun_Failed_Tests.info" NAME="Rerun Failed Tests Coverage Results" MODIFIED="1572442105101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
